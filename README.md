@@ -7,17 +7,11 @@
 ## Article
 
 - [I Tried Using Deep Learning to Predict the Stock Market](https://towardsdatascience.com/using-deep-learning-ai-to-predict-the-stock-market-9399cf15a312)
-
 - [I Tried Deep Learning Models to Predict Bitcoin Prices](https://towardsdatascience.com/predicting-bitcoin-prices-with-deep-learning-438bc3cf9a6f)
-
 - [ANN Recommendation System for Stock Selection](https://pub.towardsai.net/ann-recommendation-system-for-stock-selection-c9751a3a0520)
-
 - [Stock Predictor and Recommendation System](https://medium.com/web-mining-is688-spring-2021/stock-predictor-and-recommendation-system-4f7c3d08370e)
-
 - [Easily Optimize a Stock Portfolio using PyPortfolioOpt in Python](https://medium.datadriveninvestor.com/easily-optimize-a-stock-portfolio-using-pyportfolioopt-in-python-80492b83912a)
-
 - [Index Replication using Portfolio Optimization Methods](https://towardsdatascience.com/index-tracking-portfolio-optimization-8250d27449e6)
-
 - [Algorithmic Trading using Sentiment Analysis on News Articles](https://towardsdatascience.com/https-towardsdatascience-com-algorithmic-trading-using-sentiment-analysis-on-news-articles-83db77966704)
 
 ---
@@ -31,13 +25,11 @@
 ### Price Prediction
 
 - [RNN-pricing-model (star 32)](https://github.com/TatevKaren/recurrent-neural-network-pricing-model)
-
 - [RNN, GRU Bitcoin_Price_Prediction (star 9)](https://github.com/Shreyav29/Bitcoin_Price_Prediction)
 
 ### Dashboard
 
 - [btcpredictor (star 13)](https://github.com/Bitcoin-Price-Prediction/btcpredictor)
-
 - [FinanceCenter (star 31)](https://github.com/doncat99/FinanceCenter)
 
 ---
